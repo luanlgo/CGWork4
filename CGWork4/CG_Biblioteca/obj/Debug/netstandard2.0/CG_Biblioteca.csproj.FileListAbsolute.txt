@@ -1,0 +1,8 @@
+D:\Work\ComputacaoGrafica-master\UnidadeDois\CG_Biblioteca\bin\Debug\netstandard2.0\CG_Biblioteca.deps.json
+D:\Work\ComputacaoGrafica-master\UnidadeDois\CG_Biblioteca\bin\Debug\netstandard2.0\CG_Biblioteca.dll
+D:\Work\ComputacaoGrafica-master\UnidadeDois\CG_Biblioteca\bin\Debug\netstandard2.0\CG_Biblioteca.pdb
+D:\Work\ComputacaoGrafica-master\UnidadeDois\CG_Biblioteca\bin\Debug\netstandard2.0\CG_Biblioteca.XML
+D:\Work\ComputacaoGrafica-master\UnidadeDois\CG_Biblioteca\obj\Debug\netstandard2.0\CG_Biblioteca.AssemblyInfoInputs.cache
+D:\Work\ComputacaoGrafica-master\UnidadeDois\CG_Biblioteca\obj\Debug\netstandard2.0\CG_Biblioteca.AssemblyInfo.cs
+D:\Work\ComputacaoGrafica-master\UnidadeDois\CG_Biblioteca\obj\Debug\netstandard2.0\CG_Biblioteca.dll
+D:\Work\ComputacaoGrafica-master\UnidadeDois\CG_Biblioteca\obj\Debug\netstandard2.0\CG_Biblioteca.pdb
