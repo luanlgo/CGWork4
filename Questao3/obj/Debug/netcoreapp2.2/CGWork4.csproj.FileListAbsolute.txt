@@ -1,0 +1,16 @@
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\bin\Debug\netcoreapp2.2\CGWork4.deps.json
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\bin\Debug\netcoreapp2.2\CGWork4.runtimeconfig.json
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\bin\Debug\netcoreapp2.2\CGWork4.runtimeconfig.dev.json
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\bin\Debug\netcoreapp2.2\CGWork4.dll
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\bin\Debug\netcoreapp2.2\CGWork4.pdb
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\bin\Debug\netcoreapp2.2\CG_Biblioteca.dll
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\bin\Debug\netcoreapp2.2\CG_Biblioteca.pdb
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\bin\Debug\netcoreapp2.2\CG_Biblioteca.xml
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\obj\Debug\netcoreapp2.2\CGWork4.csprojAssemblyReference.cache
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\obj\Debug\netcoreapp2.2\CGWork4.AssemblyInfoInputs.cache
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\obj\Debug\netcoreapp2.2\CGWork4.AssemblyInfo.cs
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\obj\Debug\netcoreapp2.2\CGWork4.csproj.CopyComplete
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\obj\Debug\netcoreapp2.2\CGWork4.dll
+C:\Users\55479\Desktop\Furb\CG\CGWork4\Questao3\obj\Debug\netcoreapp2.2\CGWork4.pdb
