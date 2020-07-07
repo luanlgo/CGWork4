@@ -12,14 +12,14 @@ namespace SolarSystem
     public class SistemaSolar : GameWindow
     {
         Bitmap bitmapSun =
-            new Bitmap("C:\\Users\\gian.giovanella\\Documents\\CG\\ComputacaoGrafica\\SistemaSolar\\SolarSystem\\Resources/sun3.png");
+            new Bitmap("C:\\Users\\gian.giovanella\\Desktop\\PDI\\SistemaSolar\\SolarSystem\\Texturas\\sun6.jpg");
         Bitmap bitmapEarth =
-            new Bitmap("C:\\Users\\gian.giovanella\\Documents\\CG\\ComputacaoGrafica\\SistemaSolar\\SolarSystem\\Resources/earth.bmp");
+            new Bitmap("C:\\Users\\gian.giovanella\\Desktop\\PDI\\SistemaSolar\\SolarSystem\\Texturas\\/earth.bmp");
 
         int textura;
 
         private Vector3 Visao { get; set; }
-        private Vector3 At { get; set; }
+        private Vector3 Target { get; set; }
         private float Longe { get; set; }
         private float Perto { get; set; }
 
@@ -76,7 +76,7 @@ namespace SolarSystem
 
             // campo de visão da câmera sintética
             Visao = new Vector3(50, 50, 50);
-            At = new Vector3(0, 0, 0);
+            Target = new Vector3(0, 0, 0);
             Longe = 100.0f;
             Perto = 1.0f;
 
@@ -114,7 +114,7 @@ namespace SolarSystem
         protected override void OnRenderFrame(FrameEventArgs e)
         {
             GL.Clear(ClearBufferMask.ColorBufferBit | ClearBufferMask.DepthBufferBit);
-            Matrix4 modelview = Matrix4.LookAt(Visao, At, new Vector3(0, 1, 0));
+            Matrix4 modelview = Matrix4.LookAt(Visao, Target, new Vector3(0, 1, 0));
             GL.MatrixMode(MatrixMode.Modelview);
             GL.LoadMatrix(ref modelview);
 
@@ -248,7 +248,7 @@ namespace SolarSystem
             while (true)
             {
                 Terra.AtribuirRotacaoY(Velocidades.Terra.Move(Velocidade));
-                Thread.Sleep(100);
+                Thread.Sleep(1);
             }
         }
 
