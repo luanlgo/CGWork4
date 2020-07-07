@@ -45,3 +45,15 @@ C:\Users\55479\Desktop\Furb\CG\UnidadeDois\UnidadeDois\CrossCutting\obj\Debug\ne
 C:\Users\55479\Desktop\Furb\CG\UnidadeDois\UnidadeDois\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CopyComplete
 C:\Users\55479\Desktop\Furb\CG\UnidadeDois\UnidadeDois\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
 C:\Users\55479\Desktop\Furb\CG\UnidadeDois\UnidadeDois\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\55479\Desktop\Furb\CG\CGWork4\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\55479\Desktop\Furb\CG\CGWork4\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\55479\Desktop\Furb\CG\CGWork4\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\55479\Desktop\Furb\CG\CGWork4\CrossCutting\bin\Debug\netcoreapp2.2\CG_Biblioteca.dll
+C:\Users\55479\Desktop\Furb\CG\CGWork4\CrossCutting\bin\Debug\netcoreapp2.2\CG_Biblioteca.pdb
+C:\Users\55479\Desktop\Furb\CG\CGWork4\CrossCutting\bin\Debug\netcoreapp2.2\CG_Biblioteca.xml
+C:\Users\55479\Desktop\Furb\CG\CGWork4\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\55479\Desktop\Furb\CG\CGWork4\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\55479\Desktop\Furb\CG\CGWork4\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\55479\Desktop\Furb\CG\CGWork4\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CopyComplete
+C:\Users\55479\Desktop\Furb\CG\CGWork4\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\55479\Desktop\Furb\CG\CGWork4\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
