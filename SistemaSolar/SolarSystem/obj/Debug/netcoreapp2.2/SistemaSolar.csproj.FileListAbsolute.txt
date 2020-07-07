@@ -1,0 +1,12 @@
+C:\Users\gian.giovanella\Desktop\PDI\SistemaSolar\SolarSystem\bin\Debug\netcoreapp2.2\SistemaSolar.deps.json
+C:\Users\gian.giovanella\Desktop\PDI\SistemaSolar\SolarSystem\bin\Debug\netcoreapp2.2\SistemaSolar.runtimeconfig.json
+C:\Users\gian.giovanella\Desktop\PDI\SistemaSolar\SolarSystem\bin\Debug\netcoreapp2.2\SistemaSolar.runtimeconfig.dev.json
+C:\Users\gian.giovanella\Desktop\PDI\SistemaSolar\SolarSystem\bin\Debug\netcoreapp2.2\SistemaSolar.dll
+C:\Users\gian.giovanella\Desktop\PDI\SistemaSolar\SolarSystem\bin\Debug\netcoreapp2.2\SistemaSolar.pdb
+C:\Users\gian.giovanella\Desktop\PDI\SistemaSolar\SolarSystem\obj\Debug\netcoreapp2.2\SistemaSolar.csprojAssemblyReference.cache
+C:\Users\gian.giovanella\Desktop\PDI\SistemaSolar\SolarSystem\obj\Debug\netcoreapp2.2\SistemaSolar.csproj.CoreCompileInputs.cache
+C:\Users\gian.giovanella\Desktop\PDI\SistemaSolar\SolarSystem\obj\Debug\netcoreapp2.2\SistemaSolar.AssemblyInfoInputs.cache
+C:\Users\gian.giovanella\Desktop\PDI\SistemaSolar\SolarSystem\obj\Debug\netcoreapp2.2\SistemaSolar.AssemblyInfo.cs
+C:\Users\gian.giovanella\Desktop\PDI\SistemaSolar\SolarSystem\obj\Debug\netcoreapp2.2\SistemaSolar.dll
+C:\Users\gian.giovanella\Desktop\PDI\SistemaSolar\SolarSystem\obj\Debug\netcoreapp2.2\SistemaSolar.pdb
+C:\Users\gian.giovanella\Desktop\PDI\SistemaSolar\SolarSystem\obj\Debug\netcoreapp2.2\SistemaSolar.genruntimeconfig.cache
