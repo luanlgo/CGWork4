@@ -17,6 +17,9 @@ namespace Questao3
 
         private readonly BolaPapel BolaPapel = new BolaPapel("C:/Users/55479/Desktop/Furb/CG/CGWork4/Resources/sun.bmp");
 
+
+        int texture;
+
         public World(int width, int height) : base(width, height)
         {
             positionY = 10;
