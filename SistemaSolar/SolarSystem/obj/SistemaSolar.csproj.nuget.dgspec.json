@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gian.giovanella\\Desktop\\PDI\\SistemaSolar\\SolarSystem\\SistemaSolar.csproj": {}
+    "C:\\Users\\55479\\Desktop\\Furb\\CG\\TrabalhoFinal\\CGWork4\\SistemaSolar\\SolarSystem\\SistemaSolar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gian.giovanella\\Desktop\\PDI\\SistemaSolar\\SolarSystem\\SistemaSolar.csproj": {
+    "C:\\Users\\55479\\Desktop\\Furb\\CG\\TrabalhoFinal\\CGWork4\\SistemaSolar\\SolarSystem\\SistemaSolar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gian.giovanella\\Desktop\\PDI\\SistemaSolar\\SolarSystem\\SistemaSolar.csproj",
+        "projectUniqueName": "C:\\Users\\55479\\Desktop\\Furb\\CG\\TrabalhoFinal\\CGWork4\\SistemaSolar\\SolarSystem\\SistemaSolar.csproj",
         "projectName": "SistemaSolar",
-        "projectPath": "C:\\Users\\gian.giovanella\\Desktop\\PDI\\SistemaSolar\\SolarSystem\\SistemaSolar.csproj",
-        "packagesPath": "C:\\Users\\gian.giovanella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gian.giovanella\\Desktop\\PDI\\SistemaSolar\\SolarSystem\\obj\\",
+        "projectPath": "C:\\Users\\55479\\Desktop\\Furb\\CG\\TrabalhoFinal\\CGWork4\\SistemaSolar\\SolarSystem\\SistemaSolar.csproj",
+        "packagesPath": "C:\\Users\\55479\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\55479\\Desktop\\Furb\\CG\\TrabalhoFinal\\CGWork4\\SistemaSolar\\SolarSystem\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\gian.giovanella\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\55479\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,7 +67,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

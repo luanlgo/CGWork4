@@ -815,23 +815,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gian.giovanella\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\55479\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gian.giovanella\\Desktop\\PDI\\SistemaSolar\\SolarSystem\\SistemaSolar.csproj",
+      "projectUniqueName": "C:\\Users\\55479\\Desktop\\Furb\\CG\\TrabalhoFinal\\CGWork4\\SistemaSolar\\SolarSystem\\SistemaSolar.csproj",
       "projectName": "SistemaSolar",
-      "projectPath": "C:\\Users\\gian.giovanella\\Desktop\\PDI\\SistemaSolar\\SolarSystem\\SistemaSolar.csproj",
-      "packagesPath": "C:\\Users\\gian.giovanella\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gian.giovanella\\Desktop\\PDI\\SistemaSolar\\SolarSystem\\obj\\",
+      "projectPath": "C:\\Users\\55479\\Desktop\\Furb\\CG\\TrabalhoFinal\\CGWork4\\SistemaSolar\\SolarSystem\\SistemaSolar.csproj",
+      "packagesPath": "C:\\Users\\55479\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\55479\\Desktop\\Furb\\CG\\TrabalhoFinal\\CGWork4\\SistemaSolar\\SolarSystem\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gian.giovanella\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\55479\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -884,7 +880,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -893,7 +889,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'OpenTK 3.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v2.2'. This package may not be fully compatible with your project.",
+      "message": "O pacote 'OpenTK 3.0.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.2'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
       "libraryId": "OpenTK",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"
